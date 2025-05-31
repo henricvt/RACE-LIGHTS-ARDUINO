@@ -1,0 +1,1 @@
+This repository contains a code created for Arduino that reproduces a race starting light. The hardware consists of 3 LEDs (2 red and 1 green), 1 buzzer (which reproduces the sound of each light signal) and some resistors used with the LEDs. You can see a picture of it in the "HARDWARE" file and the code running in "RACE LIGHT" video file.
